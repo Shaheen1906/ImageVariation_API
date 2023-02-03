@@ -5,4 +5,5 @@ I have used DRF(Django REST Framework) for creating variation API.
 
 In this you just have to Logging and upload image and click on post.
 It will generate the 4 different variations of the image like (thumbnail,large,medium,grayscale) with different different sizes.
+and that images will create images folder and save with user ID numbers in your project directory 
 
